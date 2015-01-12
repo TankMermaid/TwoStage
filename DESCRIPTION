@@ -1,0 +1,15 @@
+Package: TwoStage
+Type: HMM-based FDR control for two-stage designs
+Title: Compute FDR under dependence using HMM from two-stage data
+Version: 1.0.0
+Date: 2014-03-28
+Author: Xiaoshan Wang <xsswang@gmail.com>
+Maintainer: Xiaoshan Wang <xsswang@gmail.com>
+Depends:
+    R (>= 2.10.0)
+Description: The TwoStage package implements the Hidden Markov Model based FDR
+    control as described in Wang et al., 2014 for multiple comparison
+    adjustment under dependence.
+License: GPL (version 2 or later)
+LazyLoad: yes
+Packaged: 2014-03-27 23:50:00 UTC; Xiaoshan Wang
